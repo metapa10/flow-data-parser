@@ -31,7 +31,7 @@ The Flow Data Parser is a simple program designed to parse and analyze protocol 
     flow.txt
     protocol-numbers-1.csv
 ```
-4. Copy and paste the code from flow_data_parser.py into a cell in the notebook.
+4. Copy and paste the code from ```flow_data_parser.py``` into a cell in the notebook.
 
 5. Execute the cell to run the program.
 
