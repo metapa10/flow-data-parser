@@ -23,3 +23,16 @@ The Flow Data Parser is a simple program designed to parse and analyze protocol 
 
    ```bash
    jupyter notebook
+2. Create a new notebook or open an existing one.
+
+3. Upload the following files to the notebook environment:
+```
+    lut.txt
+    flow.txt
+    protocol-numbers-1.csv
+```
+4. Copy and paste the code from flow_data_parser.py into a cell in the notebook.
+
+5. Execute the cell to run the program.
+
+6. Make sure to adjust the file paths in the code to point to the uploaded files.
